@@ -10,6 +10,9 @@
 	</a>
 </h1>
 
+<h2>Extension and server EOL</h2>
+<h3>As of November 4, 2022, we no longer officially have listings of PHEx or instances of P-NP.</h3>
+
 <!---
 <h4 align="center">
 
